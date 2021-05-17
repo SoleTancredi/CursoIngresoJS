@@ -1,7 +1,18 @@
 function mostrar()
 {
-	//tomo la hora
-	var horaDelDia =txtIdHora.value;
-	alert(horaDelDia);
+	let hora;
 
-}//FIN DE LA FUNCIÓN
+	hora = parseInt(document.getElementById("txtIdHora").value);
+
+	switch(hora)
+	{
+																																				
+
+
+
+
+
+
+
+	}
+}

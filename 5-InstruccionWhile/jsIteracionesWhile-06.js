@@ -3,7 +3,7 @@ function mostrar()
 	let numero = 0;
 	//puedo dejarlo màs chico aùn//
 	//let acumulador = 0;//
-	let promedio;
+
 	let i = 0;
  
 	while(i < 5)

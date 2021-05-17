@@ -9,8 +9,7 @@ function mostrar()
 	while(i <= 10) 
 	{
 		alert ("EL numero es " + i);
-		i = i + 1;
-		// puedo tambien hacer con i++//
+		i++;
 
 	}
 
